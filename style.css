@@ -103,7 +103,7 @@ nav{
 .img6-6{
     width: 900px;
     margin-left: 799px;
-    margin-top: 73px;
+    margin-top: 70px;
 }
 .head1{
     margin-top: -700px;
@@ -345,4 +345,12 @@ nav{
 .parent{
     margin-left: -10px;
     margin-top: -10px;
+}
+.div0-5, .div0-6, .div0-7, .div0-8{
+    transition: all 0.5s ease-in-out;
+}
+
+.div0-5:hover, .div0-6:hover, .div0-7:hover, .div0-8:hover {
+    background-color: #1e90ff;
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.2); 
 }
